@@ -1,0 +1,24 @@
+{
+  "name": "apresentacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve . -l 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaue005/Apresentacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaue005/Apresentacao/issues"
+  },
+  "homepage": "https://github.com/kaue005/Apresentacao#readme",
+  "dependencies": {
+    "serve": "^14.2.5"
+  }
+}
